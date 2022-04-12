@@ -619,6 +619,7 @@ const menu = `▬▭▬▭▬▭▬▭▬▭▬▭
 ➵ *${prefix}glasses*
 ➵ *${prefix}jahy*
 ➵ *${prefix}masturbation*
+➵ *${prefix}hentai*
 ▬▭▬▭▬▭▬▭▬▭▬▭
 => [ *NSFW-MENU* ]
 ➵ *${prefix}tebakgambar*
