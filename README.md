@@ -17,7 +17,7 @@
  
 </details>
 
-# ddos by mr.chainner
+# bot whatsapp by mr.chainner
   
 #kegunaan bot wa
   kegunaan dia banya salah satunya itu bisa bikin logo dll 
